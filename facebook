@@ -2,8 +2,6 @@
 This is Facebook
 Making first change and doing jenkins build manually
 Created Trigger in Jenkins and pushing from Git->GitHub->Jenkins
-<<<<<<< HEAD
 Forgot to commit from GitHub->Jenkins. Now GitHub->Jenkins
-=======
 Making changes in Visual Studio and commit from Visual Studio.
->>>>>>> 317e396 (Commit from VS->GitHub->Jenkins)
+Extra commit from VS
