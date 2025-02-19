@@ -2,3 +2,4 @@
 This is Facebook
 Making first change and doing jenkins build manually
 Created Trigger in Jenkins and pushing from Git->GitHub->Jenkins
+Forgot to commit from GitHub->Jenkins. Now GitHub->Jenkins
